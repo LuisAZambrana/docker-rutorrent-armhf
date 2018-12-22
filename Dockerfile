@@ -15,6 +15,7 @@ RUN \
 	bind-tools \
 	ca-certificates \
 	curl \
+	docker \
 	fcgi \
 	ffmpeg \
 	geoip \
